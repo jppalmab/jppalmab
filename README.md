@@ -4,7 +4,9 @@
  ♣ I´m based in Dublin, Ireland. <br/>
  ♣ I used to work as a ~~sociologist~~ Data Analysis, with a background includes roles as a data analyst and project manager in a wide range of Social Research.  <br/>
  ♣ Experience in social survey design (all steps), and quantitative data (academic high standard level).  <br/>
- ♣ Good knowledge of Python, R, Stata, SPSS and LATEX  <br/>
+ ♣ Good knowledge of 
+ <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png"></code>
+ Python, R, Stata, SPSS and LATEX  <br/>
 
 #### What I'm focusing on 👨‍💻
 
