@@ -1,13 +1,18 @@
 
-#### Hello world, my names is Juan Pablo, but everybody calls me JP
+#### Hello World!, my names is Juan Pablo, but everybody calls me JP <br/>
+
+ <img src=images/giphy.gif width="120px">
 
  ♣ I´m based in Dublin, Ireland. <br/>
  ♣ I used to work as a ~~sociologist~~ Data Analysis, with a background includes roles as a data analyst and project manager in a wide range of Social Research.  <br/>
  ♣ Experience in social survey design (all steps), and quantitative data (academic high standard level).  <br/>
  ♣ Good knowledge of 
- <code><img height="50" src="images/python-Programming-Language-Software.jpg"></code>
-  <code><img height="50" src="images/R.jpeg"></code>
- Python, R, Stata, SPSS and LATEX  <br/>
+ <code><img height="40" src="images/python-Programming-Language-Software.jpg"></code>
+ <code><img height="30" src="images/R.jpeg"></code>
+ <code><img height="30" src="images/stata.png"></code>
+ <code><img height="30" src="images/spss.png"></code>
+ <code><img height="30" src="images/latex_logo.png"></code>
+ <br/>
 
 #### What I'm focusing on 👨‍💻
 
