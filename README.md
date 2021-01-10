@@ -1,14 +1,9 @@
-## Hiya 
+## Hiya I'm Juan Pablo, but everybody calls me JP
  <img src=giphy.gif width="170px">
 <!--
 **jppalmab/jppalmab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-name = "Juan Pablo Palma B."
-role = "Data Analyst"
-country = "Chile"
-living = "Dublin, Ireland"
-
-print("Hello, I am", name, "from", country, "I'm looking for a job as", role, "currently living in", living)
+Professional with 4+years in Data Analysis, with a background that includes roles as a data analyst and project manager in a wide range of Social Research ♣ Experience in social survey design (all steps), and quantitative data (academic high standard level) in more than 35 studies ♣ Solid knowledge of Management of data set, and data analysis at descriptive & inferential level ♣ Postgraduate training in advanced techniques in data analysis: linear-logistic models, categorical data, multilevel analysis (mix-effects), structural equations models (SEM) and causal inference ♣ Expert in software Python, R, Stata, SPSS and LATEX ♣ Highly organized, detail-oriented, self-starter, results-driven ♣ Great interpersonal skills ♣ Notably strong in team integration, continuous improvement ♣ A multi-faceted professional with a diverse background (sociology, philosophy and statistics), able to contribute to many areas of the business when necessary.
 
 
 Here are some ideas to get you started:
