@@ -1,7 +1,15 @@
-## Hi there 
- <img src=giphy.gif width="120px">
+## Hiya 
+ <img src=giphy.gif width="170px">
 <!--
 **jppalmab/jppalmab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+name = "Juan Pablo Palma B."
+role = "Data Analyst"
+country = "Chile"
+living = "Dublin, Ireland"
+
+print("Hello, I am", name, "from", country, "I'm looking for a job as", role, "currently living in", living)
+
 
 Here are some ideas to get you started:
 
