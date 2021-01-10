@@ -19,7 +19,7 @@ Currently improving my Python skills doing an Universityt of Michigan Specializa
 #### 📫 How to reach me 
 
 <p align='left'>
-<a target="_blank" href="mailto:jppalmab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>&nbsp;&nbsp;
+<a target="_blank" href=""><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/juan-pablo-palma-b-9b9574b7//"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/jppalmab"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/jppalmab/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>
