@@ -5,7 +5,8 @@
  ♣ I used to work as a ~~sociologist~~ Data Analysis, with a background includes roles as a data analyst and project manager in a wide range of Social Research.  <br/>
  ♣ Experience in social survey design (all steps), and quantitative data (academic high standard level).  <br/>
  ♣ Good knowledge of 
- <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png"></code>
+ <code><img height="50" src="images/python-Programming-Language-Software.jpg"></code>
+  <code><img height="50" src="images/R.jpeg"></code>
  Python, R, Stata, SPSS and LATEX  <br/>
 
 #### What I'm focusing on 👨‍💻
