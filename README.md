@@ -1,8 +1,8 @@
 
 #### Hello World!, my names is Juan Pablo, but everybody calls me JP <br/>
 
- ♣ I´m based in Dublin, Ireland. <br/>
- ♣ I used to work as a ~~sociologist~~ Data Analyst, with a background includes roles as data analysis and project manager in a wide range of Social Research. Nowadays, on my way to becoming a professional Data Scientist <br/>
+ ♣ I´m currently based in Dublin, Ireland. <br/>
+ ♣ I used to work as a ~~sociologist~~ Data Analyst, with a background includes roles as data analysis and project manager in a wide range of Social Science Research. Nowadays, on my way to becoming a professional Data Scientist <br/>
  ♣ Experience in social survey design (all steps), and quantitative data (academic high standard level).  <br/>
  ♣ Good knowledge of 
  <code><img height="40" src="images/python-Programming-Language-Software.jpg"></code>
