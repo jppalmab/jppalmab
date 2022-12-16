@@ -1,16 +1,20 @@
 
-#### Hello World!, my names is Juan Pablo, but everybody calls me JP <br/>
+#### Juan Pablo Palma B. <br/>
 
- ♣ I´m currently based in Dublin, Ireland. <br/>
- ♣ I used to work as a ~~sociologist~~ Data Analyst, with a background includes roles as data analysis and project manager in a wide range of Social Science Research. Nowadays, on my way to becoming a professional Data Scientist <br/>
- ♣ Experience in social survey design (all steps), and quantitative data (academic high standard level).  <br/>
- ♣ Good knowledge of 
- <code><img height="40" src="images/python-Programming-Language-Software.jpg"></code>
- <code><img height="30" src="images/R.jpeg"></code>
- <code><img height="30" src="images/stata.png"></code>
- <code><img height="30" src="images/spss.png"></code>
- <code><img height="30" src="images/latex_logo.png"></code>
- <br/>
+ ♣ I am a Sociologist and Data Analyst with a doble Master of Science degree in both in Chile and Ireland, respectively. <br/>
+ ♣ As a sociologist I was always been interested in Quantitative methods and research. <br/>
+ ♣ I have worked for 4+ years as Social Data Analyst in a Communication and Social Research consultory in Chile. <br/>
+ ♣ In 2021 I decided to focus my career in Data Analyst and Data Science field, I did more than 20 courses of specializacion were the most significant were the "IBM Data Science Professional Specializacion" and "Python for Everybody" both by Coursera. <br/>
+ ♣ As part of my specialization I have succesfully achieved a MSc in Data Analytics at Dublin, Ireland. <br/>
+ ♣ I´m currently based in Dublin, Ireland. Looking for my next professional challenge. <br/>
+ 
+
+My technical skills are: 
+♣ Experienced level in Python, R, SQL, Excel, Stata and SPSS. 
+♣ Good knowledge of visualization tools such as Tableau and PowerBI. 
+♣ Experienced use of in academic and technical report usin LateX.
+
+
 
 #### What I'm focusing on 👨‍💻
 
