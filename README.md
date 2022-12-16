@@ -9,16 +9,12 @@
  ♣ I´m currently based in Dublin, Ireland. Looking for my next professional challenge. <br/>
  
 
-My technical skills are: 
-♣ Experienced level in Python, R, SQL, Excel, Stata and SPSS. 
-♣ Good knowledge of visualization tools such as Tableau and PowerBI. 
-♣ Experienced use of in academic and technical report usin LateX.
+My technical skills are: <br/>
+♣ Experienced level in Python, R, SQL, Excel, Stata and SPSS. <br/>
+♣ Good knowledge of visualization tools such as Tableau and PowerBI. <br/>
+♣ Experienced use of in academic and technical report usin LateX. <br/>
 
 
-
-#### What I'm focusing on 👨‍💻
-
-Currently improving my Python skills doing an Universityt of Michigan Specialization in  <code><img height="50" src="images/Coursera.png"></code>.  <br/>
 
 #### 📫 How to reach me 
 
