@@ -20,8 +20,8 @@ My technical skills are: <br/>
 
 <p align='left'>
 <a target="_blank" href="mailto:jppalmab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/juan-pablo-palma-b-9b9574b7//"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/jppalmab"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/juan-pablo-palma-b-9b9574b7//"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true](https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/jppalmab"><img height="30" src="/twitter/url?url=https%3A%2F%2Fshields.io"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/jppalmab/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>
 </p>
 
