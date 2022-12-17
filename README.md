@@ -4,20 +4,17 @@
 <br/>
 <br/>
 
- ♣ I am a Sociologist and Data Analyst with a doble Master of Science degree in both in Chile and Ireland, respectively. <br/>
- ♣ As a sociologist I was always been interested in Quantitative methods and research. <br/>
- ♣ I have worked for 4+ years as Social Data Analyst in a Communication and Social Research consultory in Chile. <br/>
- ♣ In 2021 I decided to focus my career in Data Analyst and Data Science field, I did more than 20 courses of specializacion were the most significant were the "IBM Data Science Professional Specializacion" (10 courses) and "Python for Everybody" (5 courses) both at Coursera. <br/>
- ♣ As part of my specialization I have succesfully achieved a MSc in Data Analytics at Dublin, Ireland. <br/>
- ♣ I´m currently based in Dublin, Ireland. Looking for my next professional challenge. <br/>
- 
+♣ I am a Sociologist and Data Analyst with a double Master of Science degree in Chile and Ireland, respectively. <br/>
+♣ I have worked for 4+ years as a Senior Social Data Analyst in Communication and Social Research consultancy focused on Public Opinion studies. <br/>
+♣ In 2021, I decided to upgrade my career to Data Analyst and Data Science. I have done more than 20 courses in specialisation; the most significant were the "IBM Data Science Professional Specialization" (10 courses) and "Python for Everybody" (5 courses), both at Coursera. <br/>
+♣ As part of my career transition, I have successfully achieved an MSc in Data Analytics in Dublin, Ireland. <br/>
+♣ I am currently based in Dublin, Ireland. Looking for my next professional challenge. <br/>
 
 My technical skills are: <br/>
-♣ Experienced level in Python, R, SQL, Excel, Stata and SPSS. <br/>
+♣ Experienced in Python, R, SQL, Excel, Stata and SPSS. <br/>
 ♣ Good knowledge of visualization tools such as Tableau and PowerBI. <br/>
-♣ Experienced use of in academic and technical report usin LateX. <br/>
-
-
+♣ Experienced use of academic and technical reports using LateX. <br/>
+ 
 
 #### 📫 How to reach me 
 
