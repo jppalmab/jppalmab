@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-♣ I am a Sociologist and Data Analyst with a double Master of Science degree in Chile and Ireland, respectively. <br/>
+♣ I am a Sociologist and Data Scientist with a double Master of Science degree in Chile and Ireland, respectively. <br/>
 ♣ I have worked for 4+ years as a Senior Social Data Analyst in Communication and Social Research consultancy focused on Public Opinion studies. <br/>
 ♣ In 2021, I decided to upgrade my career to Data Analyst and Data Science. I have done more than 20 courses in specialisation; the most significant were the "IBM Data Science Professional Specialization" (10 courses) and "Python for Everybody" (5 courses), both at Coursera. <br/>
 ♣ As part of my career transition, I have successfully achieved an MSc in Data Analytics in Dublin, Ireland. <br/>
