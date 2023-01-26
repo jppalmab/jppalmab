@@ -16,12 +16,10 @@ My technical skills are: <br/>
 ♣ Experienced use of academic and technical reports using LateX. <br/>
  
 <br/>
-<br/>
 
 ##### Please feel free to check out my Portfolio 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jppalmab-Portfolio)
 
-<br/>
 <br/>
 
 #### 📫 How to reach me 
