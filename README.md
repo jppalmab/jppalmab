@@ -6,7 +6,8 @@
 
 
 **IT Skills:** <br/>
-`Python (pandas, NumPy, Plotly, matplotlib, Scikit-learn, TensorFlow-Keras) | R | SQL | MS Office (Excel, Word, PowerPoint) | Tableau | PowerBI | Git | STATA | SPSS | LATEX`
+`Python (Pandas, NumPy, Plotly, Matplotlib, Scikit-learn, TensorFlow-Keras) | R | SQL |` <br/> 
+`MS Office (Excel, Word, PowerPoint) | Tableau | PowerBI | Git | STATA | SPSS | LATEX`
  
 <br/>
 
