@@ -10,7 +10,7 @@
  
 <br/>
 
-_My GitHub is organized into different Organizations (see below profile info) which have relevant repositories by topic. The current repositories are developing Projects or Repositories that I am studying. You can find my Portfolio in the following [Link](https://github.com/jppalmab-Portfolio)._
+_My GitHub is organized into different Organizations (see below profile info) which have relevant repositories by topic. The current repositories are "in process" Projects or Repositories that I am studying. You can find my Portfolio in the following [Link](https://github.com/jppalmab-Portfolio)._
 
 ### Please feel free to look into my Portfolio 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jppalmab-Portfolio)
