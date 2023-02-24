@@ -4,9 +4,8 @@
 
 **IBM Certified Data Science Professional and strategic advisor with a record of enhancing data visualisation, empowering decision- making, and reducing thousands of person-hours in operational work for multiple organisations by creating automated solutions.** <br/>
 
-Credible history of leading teams and establishing roadmaps, plans, and work breakdown structures while driving 35 data-driven projects across different sectors, such as education, forestry, politics, and social research. Continuous process improvement specialist with a reputation for bringing significant enhancements in data solution portfolios by introducing statistical modelling and machine learning techniques. Strong critical thinking, problem-solving, and communication skills with expertise in exploring, modelling, and translating raw data into strategic insights and analytics dashboards. Deep knowledge of software and data engineering toolsets with a thorough understanding of statistical methods and data manipulation best practices. Multilingual with proficiency in English (Fluent), Spanish (Native), and Portuguese (Advanced) languages. <br/>
 
-IT Skills: <br/>
+**IT Skills:** <br/>
 `Python (pandas, NumPy, Plotly, matplotlib, Scikit-learn, TensorFlow-Keras) | R | SQL | MS Office (Excel, Word, PowerPoint) | Tableau | PowerBI | Git | STATA | SPSS | LATEX`
  
 <br/>
