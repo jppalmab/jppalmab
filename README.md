@@ -18,7 +18,8 @@ _My GitHub is organized into different Organizations (see below profile info) wh
 
 
 <br/>
-#### 📫 How to reach me 
+
+### 📫 How to reach me 
 
 [![Email on Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jppalmab@gmail.com) <br/>
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/jppalmab) 
